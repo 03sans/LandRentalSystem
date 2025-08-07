@@ -1,2 +1,2 @@
 # year1-Fundamentalsofcomputing
-a basic land rental system 
+Land rental system to rent and return land 
